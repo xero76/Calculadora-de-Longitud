@@ -1,0 +1,54 @@
+C:\Users\Nelson Cornejo\Documents\Visual Studio 2012\Projects\Conversor de Unidades de Longitud\Conversor de Unidades de Longitud\obj\Debug\Conversor de Unidades de Longitud.csprojResolveAssemblyReference.cache
+C:\Users\Nelson Cornejo\Documents\Visual Studio 2012\Projects\Conversor de Unidades de Longitud\Conversor de Unidades de Longitud\obj\Debug\Conversor_de_Unidades_de_Longitud.Form1.resources
+C:\Users\Nelson Cornejo\Documents\Visual Studio 2012\Projects\Conversor de Unidades de Longitud\Conversor de Unidades de Longitud\obj\Debug\Conversor_de_Unidades_de_Longitud.Form2.resources
+C:\Users\Nelson Cornejo\Documents\Visual Studio 2012\Projects\Conversor de Unidades de Longitud\Conversor de Unidades de Longitud\obj\Debug\Conversor_de_Unidades_de_Longitud.Properties.Resources.resources
+C:\Users\Nelson Cornejo\Documents\Visual Studio 2012\Projects\Conversor de Unidades de Longitud\Conversor de Unidades de Longitud\obj\Debug\Conversor de Unidades de Longitud.csproj.GenerateResource.Cache
+C:\Users\Nelson Cornejo\Documents\Visual Studio 2012\Projects\Conversor de Unidades de Longitud\Conversor de Unidades de Longitud\bin\Debug\Conversor de Unidades de Longitud.exe
+C:\Users\Nelson Cornejo\Documents\Visual Studio 2012\Projects\Conversor de Unidades de Longitud\Conversor de Unidades de Longitud\bin\Debug\Conversor de Unidades de Longitud.pdb
+C:\Users\Nelson Cornejo\Documents\Visual Studio 2012\Projects\Conversor de Unidades de Longitud\Conversor de Unidades de Longitud\obj\Debug\Conversor de Unidades de Longitud.exe
+C:\Users\Nelson Cornejo\Documents\Visual Studio 2012\Projects\Conversor de Unidades de Longitud\Conversor de Unidades de Longitud\obj\Debug\Conversor de Unidades de Longitud.pdb
+C:\Users\ndcornejo\OneDrive - Universidad Francisco Gavidia\02-2022\PRG2\UNIDAD II\Desarrollo de aplicaciones graficas\Conversor de Unidades de Longitud\Conversor de Unidades de Longitud\obj\Debug\Conversor de Unidades de Longitud.exe
+C:\Users\ndcornejo\OneDrive - Universidad Francisco Gavidia\02-2022\PRG2\UNIDAD II\Desarrollo de aplicaciones graficas\Conversor de Unidades de Longitud\Conversor de Unidades de Longitud\obj\Debug\Conversor de Unidades de Longitud.pdb
+C:\Users\Home\Downloads\Nueva carpeta\Conversor de Unidades de Longitud\Conversor de Unidades de Longitud\bin\Debug\Conversor de Unidades de Longitud.exe.config
+C:\Users\Home\Downloads\Nueva carpeta\Conversor de Unidades de Longitud\Conversor de Unidades de Longitud\bin\Debug\Conversor de Unidades de Longitud.exe
+C:\Users\Home\Downloads\Nueva carpeta\Conversor de Unidades de Longitud\Conversor de Unidades de Longitud\bin\Debug\Conversor de Unidades de Longitud.pdb
+C:\Users\Home\Downloads\Nueva carpeta\Conversor de Unidades de Longitud\Conversor de Unidades de Longitud\obj\Debug\Conversor de Unidades de Longitud.csproj.AssemblyReference.cache
+C:\Users\Home\Downloads\Nueva carpeta\Conversor de Unidades de Longitud\Conversor de Unidades de Longitud\obj\Debug\Conversor_de_Unidades_de_Longitud.Form1.resources
+C:\Users\Home\Downloads\Nueva carpeta\Conversor de Unidades de Longitud\Conversor de Unidades de Longitud\obj\Debug\Conversor_de_Unidades_de_Longitud.Form2.resources
+C:\Users\Home\Downloads\Nueva carpeta\Conversor de Unidades de Longitud\Conversor de Unidades de Longitud\obj\Debug\Conversor_de_Unidades_de_Longitud.Properties.Resources.resources
+C:\Users\Home\Downloads\Nueva carpeta\Conversor de Unidades de Longitud\Conversor de Unidades de Longitud\obj\Debug\Conversor de Unidades de Longitud.csproj.GenerateResource.cache
+C:\Users\Home\Downloads\Nueva carpeta\Conversor de Unidades de Longitud\Conversor de Unidades de Longitud\obj\Debug\Conversor de Unidades de Longitud.csproj.CoreCompileInputs.cache
+C:\Users\Home\Downloads\Nueva carpeta\Conversor de Unidades de Longitud\Conversor de Unidades de Longitud\obj\Debug\Conversor de Unidades de Longitud.exe
+C:\Users\Home\Downloads\Nueva carpeta\Conversor de Unidades de Longitud\Conversor de Unidades de Longitud\obj\Debug\Conversor de Unidades de Longitud.pdb
+G:\Mi unidad\Escritorio\Materias Ciclo II-2023\PRG2\Unidad 2\2- Conversor de Unidades de Longitud\Conversor de Unidades de Longitud\Conversor de Unidades de Longitud\bin\Debug\Conversor de Unidades de Longitud.exe.config
+G:\Mi unidad\Escritorio\Materias Ciclo II-2023\PRG2\Unidad 2\2- Conversor de Unidades de Longitud\Conversor de Unidades de Longitud\Conversor de Unidades de Longitud\bin\Debug\Conversor de Unidades de Longitud.exe
+G:\Mi unidad\Escritorio\Materias Ciclo II-2023\PRG2\Unidad 2\2- Conversor de Unidades de Longitud\Conversor de Unidades de Longitud\Conversor de Unidades de Longitud\bin\Debug\Conversor de Unidades de Longitud.pdb
+G:\Mi unidad\Escritorio\Materias Ciclo II-2023\PRG2\Unidad 2\2- Conversor de Unidades de Longitud\Conversor de Unidades de Longitud\Conversor de Unidades de Longitud\obj\Debug\Conversor de Unidades de Longitud.csproj.AssemblyReference.cache
+G:\Mi unidad\Escritorio\Materias Ciclo II-2023\PRG2\Unidad 2\2- Conversor de Unidades de Longitud\Conversor de Unidades de Longitud\Conversor de Unidades de Longitud\obj\Debug\Conversor_de_Unidades_de_Longitud.Form1.resources
+G:\Mi unidad\Escritorio\Materias Ciclo II-2023\PRG2\Unidad 2\2- Conversor de Unidades de Longitud\Conversor de Unidades de Longitud\Conversor de Unidades de Longitud\obj\Debug\Conversor_de_Unidades_de_Longitud.Form2.resources
+G:\Mi unidad\Escritorio\Materias Ciclo II-2023\PRG2\Unidad 2\2- Conversor de Unidades de Longitud\Conversor de Unidades de Longitud\Conversor de Unidades de Longitud\obj\Debug\Conversor_de_Unidades_de_Longitud.Properties.Resources.resources
+G:\Mi unidad\Escritorio\Materias Ciclo II-2023\PRG2\Unidad 2\2- Conversor de Unidades de Longitud\Conversor de Unidades de Longitud\Conversor de Unidades de Longitud\obj\Debug\Conversor de Unidades de Longitud.csproj.GenerateResource.cache
+G:\Mi unidad\Escritorio\Materias Ciclo II-2023\PRG2\Unidad 2\2- Conversor de Unidades de Longitud\Conversor de Unidades de Longitud\Conversor de Unidades de Longitud\obj\Debug\Conversor de Unidades de Longitud.csproj.CoreCompileInputs.cache
+G:\Mi unidad\Escritorio\Materias Ciclo II-2023\PRG2\Unidad 2\2- Conversor de Unidades de Longitud\Conversor de Unidades de Longitud\Conversor de Unidades de Longitud\obj\Debug\Conversor de Unidades de Longitud.exe
+G:\Mi unidad\Escritorio\Materias Ciclo II-2023\PRG2\Unidad 2\2- Conversor de Unidades de Longitud\Conversor de Unidades de Longitud\Conversor de Unidades de Longitud\obj\Debug\Conversor de Unidades de Longitud.pdb
+C:\Users\Moises\Documents\GitHub\Conversor-de-Unidades-de-Longitud\Conversor de Unidades de Longitud\bin\Debug\Conversor de Unidades de Longitud.exe.config
+C:\Users\Moises\Documents\GitHub\Conversor-de-Unidades-de-Longitud\Conversor de Unidades de Longitud\bin\Debug\Conversor de Unidades de Longitud.exe
+C:\Users\Moises\Documents\GitHub\Conversor-de-Unidades-de-Longitud\Conversor de Unidades de Longitud\bin\Debug\Conversor de Unidades de Longitud.pdb
+C:\Users\Moises\Documents\GitHub\Conversor-de-Unidades-de-Longitud\Conversor de Unidades de Longitud\obj\Debug\Conversor de Unidades de Longitud.csproj.AssemblyReference.cache
+C:\Users\Moises\Documents\GitHub\Conversor-de-Unidades-de-Longitud\Conversor de Unidades de Longitud\obj\Debug\Conversor_de_Unidades_de_Longitud.Form1.resources
+C:\Users\Moises\Documents\GitHub\Conversor-de-Unidades-de-Longitud\Conversor de Unidades de Longitud\obj\Debug\Conversor_de_Unidades_de_Longitud.Form2.resources
+C:\Users\Moises\Documents\GitHub\Conversor-de-Unidades-de-Longitud\Conversor de Unidades de Longitud\obj\Debug\Conversor_de_Unidades_de_Longitud.Properties.Resources.resources
+C:\Users\Moises\Documents\GitHub\Conversor-de-Unidades-de-Longitud\Conversor de Unidades de Longitud\obj\Debug\Conversor de Unidades de Longitud.csproj.GenerateResource.cache
+C:\Users\Moises\Documents\GitHub\Conversor-de-Unidades-de-Longitud\Conversor de Unidades de Longitud\obj\Debug\Conversor de Unidades de Longitud.csproj.CoreCompileInputs.cache
+C:\Users\Moises\Documents\GitHub\Conversor-de-Unidades-de-Longitud\Conversor de Unidades de Longitud\obj\Debug\Conversor de Unidades de Longitud.exe
+C:\Users\Moises\Documents\GitHub\Conversor-de-Unidades-de-Longitud\Conversor de Unidades de Longitud\obj\Debug\Conversor de Unidades de Longitud.pdb
+C:\Users\Moises\Documents\GitHub\Conversor-de-Unidades-de-Longitud\Conversor de Unidades de Longitud\bin\Debug\datos.db
+C:\Users\Moises\Documents\GitHub\Conversor-de-Unidades-de-Longitud\Conversor de Unidades de Longitud\bin\Debug\EntityFramework.dll
+C:\Users\Moises\Documents\GitHub\Conversor-de-Unidades-de-Longitud\Conversor de Unidades de Longitud\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Moises\Documents\GitHub\Conversor-de-Unidades-de-Longitud\Conversor de Unidades de Longitud\bin\Debug\System.Data.SQLite.dll
+C:\Users\Moises\Documents\GitHub\Conversor-de-Unidades-de-Longitud\Conversor de Unidades de Longitud\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Moises\Documents\GitHub\Conversor-de-Unidades-de-Longitud\Conversor de Unidades de Longitud\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Moises\Documents\GitHub\Conversor-de-Unidades-de-Longitud\Conversor de Unidades de Longitud\bin\Debug\EntityFramework.xml
+C:\Users\Moises\Documents\GitHub\Conversor-de-Unidades-de-Longitud\Conversor de Unidades de Longitud\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Moises\Documents\GitHub\Conversor-de-Unidades-de-Longitud\Conversor de Unidades de Longitud\bin\Debug\System.Data.SQLite.xml
+C:\Users\Moises\Documents\GitHub\Conversor-de-Unidades-de-Longitud\Conversor de Unidades de Longitud\obj\Debug\Conversor de Unidades de Longitud.csproj.CopyComplete
